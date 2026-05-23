@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const siteUrl = "https://morningbrew.example.com";
+const siteUrl = "https://morning-brew-nu.vercel.app";
 
 export const metadata: Metadata = {
   title: {
